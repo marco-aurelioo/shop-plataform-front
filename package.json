@@ -1,0 +1,32 @@
+{
+  "name": "shop-plataform-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marco-aurelioo/shop-plataform-front.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "react",
+    "reactjs",
+    "watson"
+  ],
+  "author": "marco-aurelioo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marco-aurelioo/shop-plataform-front/issues"
+  },
+  "homepage": "https://github.com/marco-aurelioo/shop-plataform-front#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mime": "^2.4.4"
+  }
+}
